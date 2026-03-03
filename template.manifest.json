@@ -279,7 +279,7 @@
           "text": "contact"
         },
         "subtext": "A private oceanfront tower housing just three bespoke residences — each a masterwork of space, light, and uncompromising design.",
-        "headline": "test 123",
+        "headline": "test 12356",
         "backgroundImage": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/building.png",
         "backgroundImageAlt": "Luxury seaside residential tower at sunset"
       },
@@ -1922,15 +1922,15 @@
           "gallery": [
             {
               "alt": "Penthouse living room with panoramic city views",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/penthouse.png"
+              "src": "properties/penthouse.png"
             },
             {
               "alt": "Master bedroom with skyline views",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/bedroom.png"
+              "src": "properties/bedroom.png"
             },
             {
               "alt": "Gourmet kitchen with marble island",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/kitchen.png"
+              "src": "properties/kitchen.png"
             }
           ],
           "location": {
@@ -1948,8 +1948,8 @@
             "Heated floors",
             "Home theatre"
           ],
-          "floorPlan": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/floor-plan.png",
-          "thumbnail": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/penthouse.png",
+          "floorPlan": "properties/floor-plan.png",
+          "thumbnail": "properties/penthouse.png",
           "description": "Perched atop one of the city's most coveted towers, The Skyline Penthouse offers an unparalleled living experience. Floor-to-ceiling windows frame panoramic views of the urban landscape, while Calacatta marble floors and bespoke millwork define every meticulously crafted space. The open-plan living and dining area flows seamlessly into a chef's kitchen, creating an ideal canvas for both intimate evenings and grand entertaining."
         },
         {
@@ -1967,15 +1967,15 @@
           "gallery": [
             {
               "alt": "Villa exterior with infinity pool",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/villa.png"
+              "src": "properties/villa.png"
             },
             {
               "alt": "Luxury master suite",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/bedroom.png"
+              "src": "properties/bedroom.png"
             },
             {
               "alt": "Designer open kitchen",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/kitchen.png"
+              "src": "properties/kitchen.png"
             }
           ],
           "location": {
@@ -1993,8 +1993,8 @@
             "Smart irrigation system",
             "Solar panels"
           ],
-          "floorPlan": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/floor-plan.png",
-          "thumbnail": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/villa.png",
+          "floorPlan": "properties/floor-plan.png",
+          "thumbnail": "properties/villa.png",
           "description": "Nestled within lush tropical landscaping, Serenity Villa is an architectural masterpiece that harmonises indoor and outdoor living. The residence features soaring double-height ceilings, walls of glass that dissolve into manicured gardens, and an infinity-edge pool that stretches toward the horizon. Every material — from the natural stone facades to the engineered hardwood interiors — has been selected for its beauty and longevity."
         },
         {
@@ -2012,15 +2012,15 @@
           "gallery": [
             {
               "alt": "Open-plan living with ocean views",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/apartment.png"
+              "src": "properties/apartment.png"
             },
             {
               "alt": "Serene master bedroom",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/bedroom.png"
+              "src": "properties/bedroom.png"
             },
             {
               "alt": "Contemporary kitchen",
-              "src": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/kitchen.png"
+              "src": "properties/kitchen.png"
             }
           ],
           "location": {
@@ -2038,8 +2038,8 @@
             "Pet friendly",
             "Rooftop garden"
           ],
-          "floorPlan": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/floor-plan.png",
-          "thumbnail": "https://pub-da5fe52c12854625bef20ed173f635f1.r2.dev/templates/minimal-luxury/properties/apartment.png",
+          "floorPlan": "properties/floor-plan.png",
+          "thumbnail": "properties/apartment.png",
           "description": "Azure Residence captures the essence of coastal sophistication. With unobstructed ocean panoramas from every room, this residence offers a lifestyle defined by light, space, and tranquillity. The open-plan design features polished concrete floors, natural timber accents, and a seamless flow to a wraparound terrace — the perfect stage for watching the sun sink below the horizon."
         }
       ],
